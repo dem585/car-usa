@@ -9,6 +9,7 @@ body{
 	font-size: 18px;
 	line-height: 27px;
 	font-weight: 300;
+	
 }
 
 button{
@@ -683,6 +684,9 @@ a{
 	.about__blok-box{
 		padding: 40px 10px;
 		text-align: center;
+	}
+	.servise__info{
+		width: 100%;
 	}
 }
 
