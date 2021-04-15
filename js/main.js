@@ -2,11 +2,11 @@ $(function(){
 
 	$('.slider').slick({
 		dots:true,
+    autoplay:1000,
 		arrows: false, 
 		slidesToShow: 3,
-		centerMode: true,
-		centerPadding: '0px',
-		autoplaySpeed: 3000,
+  	centerMode: true,
+		centerPadding: '0px',		
   		slidesToScroll: 1,
   		 responsive: [
 
